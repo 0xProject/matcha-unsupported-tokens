@@ -1,0 +1,297 @@
+{
+  "name": "Matcha Unsupported Tokens",
+  "timestamp": "2021-01-05T20:47:02.923Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {},
+  "logoURI": "https://matcha.xyz/apple-touch-icon.png",
+  "keywords": ["matcha", "unsupported"],
+  "tokens": [
+    {
+      "chainId": 250,
+      "address": "0x911da02c1232a3c3e1418b834a311921143b04d7",
+      "decimals": 18,
+      "name": "veDAO",
+      "symbol": "WEVE"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4156d3342d5c385a87d264f90653733592000581",
+      "decimals": 8,
+      "name": "Salt",
+      "symbol": "SALT"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe83e098eedb43b33d340d4757529e5a2c4ee3230",
+      "decimals": 18,
+      "name": "Boon Tech",
+      "symbol": "BOON"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1234567461d3f8db7496581774bd869c83d51c93",
+      "decimals": 18,
+      "name": "BitClave",
+      "symbol": "CAT"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+      "decimals": 8,
+      "name": "Enigma",
+      "symbol": "ENG"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6175f6f85339f1e56affac5a68cbf8297969004d",
+      "decimals": 9,
+      "name": "Shopin Token",
+      "symbol": "SHOP"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dc1ce41ca15d5f500f50ea7da15da21e4f80a1a",
+      "decimals": 18,
+      "name": "Fantasy Market Token",
+      "symbol": "FMT"
+    },
+    {
+      "chainId": 1,
+      "address": "0x014b50466590340d41307cc54dcee990c8d58aa8",
+      "decimals": 6,
+      "name": "ICOS",
+      "symbol": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5",
+      "decimals": 3,
+      "name": "bitqy",
+      "symbol": "BQ"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a9c5b451dd8a467e80671380a875085fe053e30",
+      "decimals": 3,
+      "name": "bitqyM",
+      "symbol": "BQM"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+      "decimals": 18,
+      "name": "Veritaseum",
+      "symbol": "VERI"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D",
+      "decimals": 6,
+      "name": "PRG",
+      "symbol": "PRG"
+    },
+    {
+      "chainId": 1,
+      "address": "0x71d01db8d6a2fbea7f8d434599c237980c234e4c",
+      "decimals": 8,
+      "name": "Gladius",
+      "symbol": "GLA"
+    },
+    {
+      "chainId": 1,
+      "address": "0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
+      "decimals": 8,
+      "name": "AirToken",
+      "symbol": "AIR"
+    },
+    {
+      "chainId": 1,
+      "address": "0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
+      "decimals": 18,
+      "name": "Centra",
+      "symbol": "CTR"
+    },
+    {
+      "chainId": 1,
+      "address": "0x44ea84a85616f8e9cd719fc843de31d852ad7240",
+      "decimals": 15,
+      "name": "NO Donald Trump",
+      "symbol": "nTRUMP"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3af375d9f77ddd4f16f86a5d51a9386b7b4493fa",
+      "decimals": 15,
+      "name": "YES Donald Trump",
+      "symbol": "yTRUMP"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5963fd7ca9b17b85768476019f81cb43d9d1818e",
+      "decimals": 18,
+      "name": "Wrapped ERC-1155",
+      "symbol": "WMT"
+    },
+    {
+      "chainId": 1,
+      "address": "0x40ce0a1d8f4999807b92ec266a025f071814b15d",
+      "decimals": 18,
+      "name": "Wrapped ERC-1155",
+      "symbol": "WMT"
+    },
+    {
+      "chainId": 1,
+      "address": "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+      "decimals": 18,
+      "name": "UnikoinGold",
+      "symbol": "UKG"
+    },
+    {
+      "chainId": 1,
+      "address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+      "decimals": 18,
+      "name": "Sether",
+      "symbol": "SETH"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a1e3930fde1f151471c368fdbb39f3f63a65b55",
+      "decimals": 18,
+      "name": "Bezop",
+      "symbol": "BEZ"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b",
+      "decimals": 8,
+      "name": "Shivers",
+      "symbol": "SHVR"
+    },
+    {
+      "chainId": 1,
+      "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+      "decimals": 18,
+      "name": "BOB Token",
+      "symbol": "BOB"
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd0Df7B58bD53D1dd4835ecD69A703b4b26F7816",
+      "decimals": 18,
+      "name": "MziToken",
+      "symbol": "MZI"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc029ba3dc12e1834571e821d94a07de0a01138ea",
+      "decimals": 18,
+      "name": "Qubicle",
+      "symbol": "QBE"
+    },
+    {
+      "chainId": 1,
+      "address": "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13",
+      "decimals": 18,
+      "name": "Eristica TOKEN",
+      "symbol": "ERT"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cc77e575ba11af68743fe5b24d733c2aad9defb",
+      "decimals": 18,
+      "name": "Matcha",
+      "symbol": "MATCHA"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa257be1b01b09abe85f8b7c33334c343fb9bde9f",
+      "decimals": 18,
+      "name": "OPYN",
+      "symbol": "OPYN"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5527927BdeE07Fd12224D7392287e2d6482ED528",
+      "decimals": 18,
+      "name": "OPYN",
+      "symbol": "OPYN"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D68BCd3B2874c97D06f34A7751BdB51e91193c7",
+      "decimals": 18,
+      "name": "Zapper.Fi",
+      "symbol": "ZAPR"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4156d3342d5c385a87d264f90653733592000581",
+      "decimals": 18,
+      "name": "unified Stable Dollar",
+      "symbol": "uSD"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+      "decimals": 18,
+      "name": "ETH2xFlexibleLeverageIndex",
+      "symbol": "ETH2XFLI"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+      "decimals": 18,
+      "name": "BTC2xFlexibleLeverageIndex",
+      "symbol": "BTC2XFLI"
+    },
+    {
+      "chainId": 137,
+      "address": "0x3ad707da309f3845cd602059901e39c4dcd66473",
+      "decimals": 18,
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2x-FLI-P"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd6ca869a4ec9ed2c7e618062cdc45306d8dbbc14",
+      "decimals": 18,
+      "name": "BTC 2x Flexible Leverage Index",
+      "symbol": "BTC2x-FLI-P"
+    },
+    {
+      "chainId": 137,
+      "address": "0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976",
+      "decimals": 18,
+      "name": "Index Coop - MATIC 2x Flexible Leverage Index",
+      "symbol": "MATIC2X-FLI-P"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xdd8e557c8804d326c72074e987de02a23ae6ef84",
+      "decimals": 18,
+      "name": "ArbInu",
+      "symbol": "ARBINU"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4236f8aaF2B1f3A28420Eb15B8e0ddF63201a95E",
+      "decimals": 18,
+      "name": "Bermuda",
+      "symbol": "BMDA"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x12f7cf4f2e3f87678ec5207fc920c815e31524df",
+      "decimals": 18,
+      "name": "Dotlab",
+      "symbol": "DTL"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x17afc249db786fc300f2d26381fec5cf0c3913fb",
+      "decimals": 9,
+      "name": "Shiba Cartel",
+      "symbol": "PESOS"
+    }
+  ]
+}
