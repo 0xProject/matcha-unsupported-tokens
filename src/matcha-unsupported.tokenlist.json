@@ -299,6 +299,13 @@
       "decimals": 18,
       "name": "FTX Token",
       "symbol": "FTT"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "decimals": 8,
+      "name": "HEX",
+      "symbol": "HEX"
     }
   ]
 }
