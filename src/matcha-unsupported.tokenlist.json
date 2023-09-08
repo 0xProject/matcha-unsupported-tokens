@@ -306,6 +306,13 @@
       "decimals": 8,
       "name": "HEX",
       "symbol": "HEX"
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1b99e3e573a1a9c5e6b2ce818b617f0e664e86b",
+      "decimals": 18,
+      "name": "Opyn Squeeth",
+      "symbol": "oSQTH"
     }
   ]
 }
