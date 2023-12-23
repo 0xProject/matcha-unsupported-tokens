@@ -1,8 +1,25 @@
 {
   "name": "Matcha Unsupported Tokens",
-  "timestamp": "2021-01-05T20:47:02.923Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "tags": {},
+  "timestamp": "2023-12-22T18:47:02.923Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "leverage": {
+      "name": "Leverage Tokens",
+      "description": "Tokens that give holders leveraged exposure to crypto markets."
+    },
+    "fee-on-transfer": {
+      "name": "Fee on Transfer Tokens",
+      "description": "Tokens that charge a fee on every transfer."
+    },
+    "honeypot": {
+      "name": "Honeypot Tokens",
+      "description": "Tokens that can be bought but not sold."
+    }
+  },
   "logoURI": "https://matcha.xyz/apple-touch-icon.png",
   "keywords": ["matcha", "unsupported"],
   "tokens": [
@@ -235,35 +252,40 @@
       "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
       "decimals": 18,
       "name": "ETH2xFlexibleLeverageIndex",
-      "symbol": "ETH2XFLI"
+      "symbol": "ETH2XFLI",
+      "tags": ["leverage"]
     },
     {
       "chainId": 1,
       "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
       "decimals": 18,
       "name": "BTC2xFlexibleLeverageIndex",
-      "symbol": "BTC2XFLI"
+      "symbol": "BTC2XFLI",
+      "tags": ["leverage"]
     },
     {
       "chainId": 137,
       "address": "0x3ad707da309f3845cd602059901e39c4dcd66473",
       "decimals": 18,
       "name": "ETH 2x Flexible Leverage Index",
-      "symbol": "ETH2x-FLI-P"
+      "symbol": "ETH2x-FLI-P",
+      "tags": ["leverage"]
     },
     {
       "chainId": 137,
       "address": "0xd6ca869a4ec9ed2c7e618062cdc45306d8dbbc14",
       "decimals": 18,
       "name": "BTC 2x Flexible Leverage Index",
-      "symbol": "BTC2x-FLI-P"
+      "symbol": "BTC2x-FLI-P",
+      "tags": ["leverage"]
     },
     {
       "chainId": 137,
       "address": "0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976",
       "decimals": 18,
       "name": "Index Coop - MATIC 2x Flexible Leverage Index",
-      "symbol": "MATIC2X-FLI-P"
+      "symbol": "MATIC2X-FLI-P",
+      "tags": ["leverage"]
     },
     {
       "chainId": 42161,
@@ -306,6 +328,22 @@
       "decimals": 8,
       "name": "HEX",
       "symbol": "HEX"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x7eecc050e8df3860aac5fc41e6a3442574c7747f",
+      "decimals": 8,
+      "name": "Coinbase",
+      "symbol": "Coinbase",
+      "tags": ["honeypot"]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x7eecc050e8df3860aac5fc41e6a3442574c7747f",
+      "decimals": 8,
+      "name": "AVAV",
+      "symbol": "AVAV",
+      "tags": ["honeypot"]
     }
   ]
 }
