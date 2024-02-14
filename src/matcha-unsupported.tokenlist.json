@@ -1,10 +1,17 @@
 {
   "name": "Matcha Unsupported Tokens",
   "timestamp": "2021-01-05T20:47:02.923Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tags": {},
   "logoURI": "https://matcha.xyz/apple-touch-icon.png",
-  "keywords": ["matcha", "unsupported"],
+  "keywords": [
+    "matcha",
+    "unsupported"
+  ],
   "tokens": [
     {
       "chainId": 250,
@@ -315,81 +322,200 @@
       "symbol": "oSQTH"
     },
     {
-      "chainId" : 1,
-      "address" : "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
-      "decimals" : 18,
-      "name" : "BTC 2x Flexible Leverage Index",
-      "symbol" : "BTC2x-FLI"
+      "chainId": 1,
+      "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+      "decimals": 18,
+      "name": "BTC 2x Flexible Leverage Index",
+      "symbol": "BTC2x-FLI"
     },
     {
-      "chainId" : 1,
-      "address" : "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
-      "decimals" : 18,
-      "name" : "DefiPulse Index",
-      "symbol" : "DPI"
+      "chainId": 1,
+      "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+      "decimals": 18,
+      "name": "DefiPulse Index",
+      "symbol": "DPI"
     },
     {
-      "chainId" : 1,
-      "address" : "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65",
-      "decimals" : 18,
-      "name" : "Index Coop Large Cap Index",
-      "symbol" : "ic21"
+      "chainId": 1,
+      "address": "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65",
+      "decimals": 18,
+      "name": "Index Coop Large Cap Index",
+      "symbol": "ic21"
     },
     {
-      "chainId" : 1,
-      "address" : "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6",
-      "decimals" : 18,
-      "name" : "Bankless BED Index",
-      "symbol" : "BED"
+      "chainId": 1,
+      "address": "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6",
+      "decimals": 18,
+      "name": "Bankless BED Index",
+      "symbol": "BED"
     },
     {
-      "chainId" : 1,
-      "address" : "0x341c05c0e9b33c0e38d64de76516b2ce970bb3be",
-      "decimals" : 18,
-      "name" : "$Diversified Staked ETH Index (dsETH)",
-      "symbol" : "dsETH"
+      "chainId": 1,
+      "address": "0x341c05c0e9b33c0e38d64de76516b2ce970bb3be",
+      "decimals": 18,
+      "name": "$Diversified Staked ETH Index (dsETH)",
+      "symbol": "dsETH"
     },
     {
-      "chainId" : 1,
-      "address" : "0x36c833eed0d376f75d1ff9dfdee260191336065e",
-      "decimals" : 18,
-      "name" : "!Gitcoin Staked ETH Index (gtcETH)",
-      "symbol" : "gtcETH"
+      "chainId": 1,
+      "address": "0x36c833eed0d376f75d1ff9dfdee260191336065e",
+      "decimals": 18,
+      "name": "!Gitcoin Staked ETH Index (gtcETH)",
+      "symbol": "gtcETH"
     },
     {
-      "chainId" : 1,
-      "address" : "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
-      "decimals" : 18,
-      "name" : "Metaverse Index",
-      "symbol" : "MVI"
+      "chainId": 1,
+      "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
+      "decimals": 18,
+      "name": "Metaverse Index",
+      "symbol": "MVI"
     },
     {
-      "chainId" : 1,
-      "address" : "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
-      "decimals" : 18,
-      "name" : "Interest Compounding ETH Index",
-      "symbol" : "icETH"
+      "chainId": 1,
+      "address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+      "decimals": 18,
+      "name": "Interest Compounding ETH Index",
+      "symbol": "icETH"
     },
     {
-      "chainId" : 1,
-      "address" : "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
-      "decimals" : 18,
-      "name" : "ETH 2x Flexible Leverage Index",
-      "symbol" : "ETH2x-FLI"
+      "chainId": 1,
+      "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+      "decimals": 18,
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2x-FLI"
     },
     {
-      "chainId" : 1,
-      "address" : "0xc30fba978743a43e736fc32fbeed364b8a2039cd",
-      "decimals" : 18,
-      "name" : "Money Market Index",
-      "symbol" : "icSMMT"
+      "chainId": 1,
+      "address": "0xc30fba978743a43e736fc32fbeed364b8a2039cd",
+      "decimals": 18,
+      "name": "Money Market Index",
+      "symbol": "icSMMT"
     },
     {
-      "chainId" : 137,
-      "address" : "0x3ed4c2d63def617f436eb031bacae16f478f3b00",
-      "decimals" : 18,
-      "name" : "DPEX",
-      "symbol" : "DPEX"
+      "chainId": 137,
+      "address": "0x3ed4c2d63def617f436eb031bacae16f478f3b00",
+      "decimals": 18,
+      "name": "DPEX",
+      "symbol": "DPEX"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+      "decimals": 18,
+      "name": "LUNA",
+      "symbol": "LUNA"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+      "decimals": 18,
+      "name": "Wrapped LUNA Token",
+      "symbol": "WLUNA"
+    },
+    {
+      "chainId": 1,
+      "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+      "decimals": 18,
+      "name": "Wrapped MIR Token",
+      "symbol": "WMIR"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+      "decimals": 6,
+      "name": "UST",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+      "decimals": 18,
+      "name": "Wrapped UST Token",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 137,
+      "address": "0x9cd6746665d9557e1b9a775819625711d0693439",
+      "decimals": 6,
+      "name": "LUNA",
+      "symbol": "LUNA"
+    },
+    {
+      "chainId": 137,
+      "address": "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57",
+      "decimals": 18,
+      "name": "Wrapped LUNA Token (PoS)",
+      "symbol": "LUNA"
+    },
+    {
+      "chainId": 137,
+      "address": "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59",
+      "decimals": 6,
+      "name": "UST (Wormhole)",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 137,
+      "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+      "decimals": 18,
+      "name": "Wrapped UST Token (PoS)",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1c5ccca2cb59145a4b25f452660cba6436ddce9b",
+      "decimals": 18,
+      "name": "Wrapped MIR Token (PoS)",
+      "symbol": "MIR"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x13780e6d5696dd91454f6d3bbc2616687fea43d0",
+      "decimals": 6,
+      "name": "TerraUSD",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 56,
+      "address": "0x156ab3346823b651294766e23e6cf87254d68962",
+      "decimals": 6,
+      "name": "LUNA",
+      "symbol": "LUNA"
+    },
+    {
+      "chainId": 56,
+      "address": "0xeccf35f941ab67ffcaa9a1265c2ff88865caa005",
+      "decimals": 18,
+      "name": "Wrapped LUNA Token",
+      "symbol": "LUNA"
+    },
+    {
+      "chainId": 56,
+      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+      "decimals": 18,
+      "name": "Wrapped MIR Token",
+      "symbol": "MIR"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xb599c3590f42f8f995ecfa0f85d2980b76862fc1",
+      "decimals": 6,
+      "name": "UST",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 250,
+      "address": "0x846e4d51d7e2043c1a87e0ab7490b93fb940357b",
+      "decimals": 6,
+      "name": "UST (Wormhole)",
+      "symbol": "UST"
+    },
+    {
+      "chainId": 56,
+      "address": "0xe2d27f06f63d98b8e11b38b5b08a75d0c8dd62b9",
+      "decimals": 6,
+      "name": "TerraUSD",
+      "symbol": "UST"
     }
   ]
 }
