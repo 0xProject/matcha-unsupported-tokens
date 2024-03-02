@@ -516,6 +516,13 @@
       "decimals": 6,
       "name": "TerraUSD",
       "symbol": "UST"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+      "decimals": 18,
+      "name": "Staked USDe",
+      "symbol": "SUSDE"
     }
   ]
 }
