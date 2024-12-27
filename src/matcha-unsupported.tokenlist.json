@@ -14,6 +14,13 @@
   ],
   "tokens": [
     {
+      "chainId": 8453,
+      "address": "0xa65b05db629860ab3b3697824f541664f13ade91",
+      "decimals": 18,
+      "name": "Turbo On Base",
+      "symbol": "TURBO"
+    },
+    {
       "chainId": 250,
       "address": "0x911da02c1232a3c3e1418b834a311921143b04d7",
       "decimals": 18,
